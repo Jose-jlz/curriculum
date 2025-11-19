@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+nav {
+  font-family: Arial, Helvetica, sans-serif;
+  word-spacing: 50px;
+}
+.whts,
+.linkedimg {
+  height: 20px;
+  width: 20px;
+}
